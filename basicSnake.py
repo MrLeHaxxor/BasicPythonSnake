@@ -19,7 +19,7 @@ fruitY = 0
 secondtimer = 0
 fps = 0
 fpscounter = 0
-
+#please
 def trackFPS():
     global secondtimer, fpscounter,fps
     if delta > 0:
